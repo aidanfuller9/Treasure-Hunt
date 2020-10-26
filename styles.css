@@ -1,0 +1,45 @@
+body {
+    background-color: lime;
+}
+
+.stepOne {
+    text-align: center;
+}
+
+.stepTwo {
+    text-align: center;
+    display: none;
+}
+
+.bread {
+    display: none;
+    width: 400px;
+}
+
+.stepThree {
+    display: none;
+}
+.hidden {
+    display: none;
+    color: lime;
+   text-align:right;
+}
+.dog {
+    display: none;
+}
+
+.dog2 {
+    display: none;
+}
+.dog3 {
+    display:none;
+}
+.treasure {
+    display:none;
+    font-size:40px;
+}
+.fox { 
+    display:none;
+    height:500px;
+    width:500px;
+}
